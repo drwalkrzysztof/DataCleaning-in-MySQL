@@ -3,7 +3,8 @@ I am building a data cleaning project in MySQL
 
 ## Loading raw csv Data using Table Date Import Wizard
 
-```SELECT *
+```
+SELECT *
 FROM layoffs;
 ```
 ## Stages 
@@ -14,7 +15,8 @@ FROM layoffs;
 
 ## I created a Layoffs_staging table to work with
 
-```CREATE TABLE layoffs_staging
+```
+CREATE TABLE layoffs_staging
 LIKE layoffs;
 
 SELECT *
