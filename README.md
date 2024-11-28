@@ -7,3 +7,6 @@ I am building a data cleaning project in MySQL
   3. Null values or Blank values 
   4. Removing Any Columns or Rows
 
+## Loading csv Data using Table Date Import Wizard
+
+
